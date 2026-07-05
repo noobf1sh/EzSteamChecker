@@ -1,2 +1,3 @@
 # EzSteamChecker
 非常简易的crx文件，用以查询任何steam用户的个人资料，并在CS2中是否有作弊的嫌疑
+ Deepseek、豆包强势协助！

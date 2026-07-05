@@ -3,4 +3,6 @@
 
 使用方法：在Steam个人资料的“更多...”中选择任意网站以使用该网站的查询功能
 
+<img width="180" height="91" alt="example" src="https://github.com/user-attachments/assets/f2c1e027-3a3e-417b-8f60-208b615d0ca7" />
+
 Deepseek、豆包强势协助！

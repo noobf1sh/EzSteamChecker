@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "EzSteamChecker",
+  "version": "1.0.3",
+  "description": "使用方法：个人资料-更多...",
+  "content_scripts": [
+    {
+      "matches": [
+        "*://steamcommunity.com/id/*",
+        "*://steamcommunity.com/profiles/*"
+      ],
+      "js": ["content.js"],
+      "run_at": "document_end"
+    }
+  ]
+}
